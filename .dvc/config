@@ -3,3 +3,4 @@
     remote = remote_storage
 ['remote "remote_storage"']
     url = s3://dvc-practise/first_experiment/
+    credentialpath = /Users/tejeshbatapati/.aws/credentials
